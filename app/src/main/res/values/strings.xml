@@ -1,3 +1,50 @@
 <resources>
     <string name="app_name">Month of Wellness</string>
+
+    <string name="wellness_top_app_bar">30 Days Of Wellness</string>
+    <string name="wellness_day">Day %d</string>
+    <!--Wellness TITLES-->
+    <string name="wellness_title_day1">Eat Breakfast</string>
+    <string name="wellness_title_day2">Make Half Your Plate Fruits and Vegetables</string>
+    <string name="wellness_title_day3">Watch Portion Sizes</string>
+    <string name="wellness_title_day4">Be Active</string>
+    <string name="wellness_title_day5">Get to Know Food Labels</string>
+    <string name="wellness_title_day6">Fix Healthy Snacks</string>
+    <string name="wellness_title_day7">Consult an RDN</string>
+    <string name="wellness_title_day8">Follow Food Safety Guidelines</string>
+    <string name="wellness_title_day9">Drink More Water</string>
+    <string name="wellness_title_day10">Get Cooking</string>
+    <string name="wellness_title_day11">Order Out without Ditching Goals</string>
+    <string name="wellness_title_day12">Enact Family Meal Time</string>
+    <string name="wellness_title_day13">Banish Brown Bag Boredom</string>
+    <string name="wellness_title_day14">Reduce Added Sugars</string>
+    <string name="wellness_title_day15">Eat Seafood Twice a Week</string>
+    <string name="wellness_title_day16">Explore New Foods and Flavors</string>
+    <string name="wellness_title_day17">Experiment with Plant-based Meals</string>
+    <string name="wellness_title_day18">Make an Effort to Reduce Food Waste</string>
+    <string name="wellness_title_day19">Slow Down at Mealtime</string>
+    <string name="wellness_title_day20">Supplement with Caution</string>
+
+    <!--Wellness BODIES-->
+    <string name = "wellness_body_day1">Start your day with a healthy breakfast that includes lean protein, whole grains, fruits and vegetables. Try making a breakfast burrito with scrambled eggs, low-fat cheese, salsa and a whole wheat tortilla or a parfait with low-fat plain yogurt, fruit and whole grain cereal.</string>
+    <string name = "wellness_body_day2">Fruits and veggies add color, flavor and texture plus vitamins, minerals and dietary fiber to your plate. Make 2 cups of fruit and 2 ½ cups of vegetables your daily goal. Experiment with different types, including fresh, frozen and canned.</string>
+    <string name = "wellness_body_day3">Use half your plate for fruits and vegetables and the other half for grains and lean protein foods. Complete the meal with a serving of fat-free or low-fat milk or yogurt. Measuring cups may also help you compare your portions to the recommended serving size.</string>
+    <string name = "wellness_body_day4">Regular physical activity has many health benefits. Start by doing what exercise you can. Children and teens should get 60 or more minutes of physical activity per day, and adults at least two hours and 30 minutes per week. You don\'t have to hit the gym - take a walk after dinner or put on music and dance at home.</string>
+    <string name = "wellness_body_day5">Reading the Nutrition Facts panel can help you choose foods and drinks to meet your nutrient needs.</string>
+    <string name = "wellness_body_day6">Healthy snacks can sustain your energy levels between meals, especially when they include a combination of foods. Choose from two or more of the MyPlate food groups: grains, fruits, vegetables, dairy, and protein. Try raw veggies with low-fat cottage cheese or hummus, or a tablespoon of nut or seed butter with an apple or banana</string>
+    <string name = "wellness_body_day7">Whether you want to lose weight, lower your health-risks or manage a chronic disease, consult the experts! Registered dietitian nutritionists can help you by providing sound, easy-to-follow personalized nutrition advice.</string>
+    <string name = "wellness_body_day8"> Reduce your chances of getting sick with proper food safety. This includes: regular hand washing, separating raw foods from ready-to-eat foods, cooking foods to the appropriate internal temperature, and refrigerating food promptly</string>
+    <string name = "wellness_body_day9">Quench your thirst with water instead of drinks with added sugars. Stay hydrated and drink plenty of water, especially if you are active, an older adult or live or work in hot conditions.</string>
+    <string name = "wellness_body_day10">Preparing foods at home can be healthy, rewarding and cost-effective. Master some kitchen basics, like dicing onions or cooking dried beans.</string>
+    <string name = "wellness_body_day11">You can eat out and stick to your healthy eating plan! The key is to plan ahead, ask questions and choose foods carefully. Compare nutrition information, if available, and look for healthier options that are grilled, baked, broiled or steamed.</string>
+    <string name = "wellness_body_day12">Plan to eat as a family at least a few times each week. Set a regular mealtime. Turn off the TV, phones and other electronic devices to encourage mealtime talk. Get kids involved in meal planning and cooking and use this time to teach them about good nutrition.</string>
+    <string name = "wellness_body_day13">Whether it’s for work or school, prevent brown bag boredom with easy-to-make, healthy lunch ideas. Try a whole-wheat pita pocket with veggies and hummus or a low sodium vegetable soup with whole grain crackers or a salad of mixed greens with low-fat dressing and a hard boiled egg.</string>
+    <string name = "wellness_body_day14">Foods and drinks with added sugars can contribute empty calories and little or no nutrition. Review the new and improved Nutrition Facts Label or ingredients list to identify sources of added sugars.</string>
+    <string name = "wellness_body_day15">Seafood – fish and shellfish – contains a range of nutrients including healthy omega-3 fats. Salmon, trout, oysters and sardines are higher in omega-3s and lower in mercury.</string>
+    <string name = "wellness_body_day16">Add more nutrition and eating pleasure by expanding your range of food choices. When shopping, make a point of selecting a fruit, vegetable or whole grain that’s new to you or your family.</string>
+    <string name = "wellness_body_day17">Expand variety in your menus with budget-friendly meatless meals. Many recipes that use meat and poultry can be made without. Vegetables, beans, and lentils are all great substitutes. Try including one meatless meal per week to start.</string>
+    <string name = "wellness_body_day18">Check out what foods you have on hand before stocking up at the grocery store. Plan meals based on leftovers and only buy perishable foods you will use or freeze within a couple of days. Managing these food resources at home can help save nutrients and money.</string>
+    <string name = "wellness_body_day19">Instead of eating on the run, try sitting down and focusing on the food you’re about to eat. Dedicating time to enjoy the taste and textures of foods can have a positive effect on your food intake.</string>
+    <string name = "wellness_body_day20">Choose foods first for your nutrition needs. A dietary supplement may be necessary when nutrient requirements can’t be met or there is a confirmed deficiency. If you’re considering a vitamin, mineral or herbal supplement, be sure to discuss safe and appropriate options with an RDN or another healthcare provider before taking.</string>
+
 </resources>
